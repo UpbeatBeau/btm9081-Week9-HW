@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Week9-HW.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\beaum\Documents\Codelab1\Week9-HW\btm9081-Week9-HW\Week9-HW\.idea\.idea.Week9-HW\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
