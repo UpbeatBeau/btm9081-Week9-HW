@@ -38,7 +38,7 @@ public class StackGame : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Alpha3))
         {
-            effects.Push("( x _ x )");
+            effects.Push(" ╭[ ᴼᴼ ౪ ᴼᴼ]╮ ");
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha4))
