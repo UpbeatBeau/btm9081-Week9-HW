@@ -28,7 +28,7 @@ public class StackGame : MonoBehaviour
         //bunch of faces to make a tower
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            effects.Push("( - v - )");
+            effects.Push("ʕ • ₒ • ʔ");
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha2))
@@ -63,7 +63,7 @@ public class StackGame : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Alpha8))
         {
-            effects.Push("[ ‘ ᴥ ’ ]");
+            effects.Push("▼・ᴥ・▼");
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha9))
